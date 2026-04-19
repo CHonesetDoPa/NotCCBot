@@ -1,0 +1,137 @@
+- from: "C"
+  to: "C"
+
+- from: "c"
+  to: "c"
+
+- from: "Ć"
+  to: "C"
+
+- from: "Ĉ"
+  to: "C"
+
+- from: "Ċ"
+  to: "C"
+
+- from: "Č"
+  to: "C"
+
+- from: "Ƈ"
+  to: "C"
+
+- from: "Ȼ"
+  to: "C"
+
+- from: "Ꜿ"
+  to: "C"
+
+- from: "ć"
+  to: "c"
+
+- from: "ĉ"
+  to: "c"
+
+- from: "ċ"
+  to: "c"
+
+- from: "č"
+  to: "c"
+
+- from: "ƈ"
+  to: "c"
+
+- from: "ȼ"
+  to: "c"
+
+- from: "ꜿ"
+  to: "c"
+
+- from: "Ϲ"
+  to: "C"
+
+- from: "ϲ"
+  to: "c"
+
+- from: "Ͻ"
+  to: "C"
+
+- from: "Ͼ"
+  to: "C"
+
+- from: "ͻ"
+  to: "c"
+
+- from: "ͼ"
+  to: "c"
+
+- from: "ͽ"
+  to: "c"
+
+- from: "С"
+  to: "C"
+
+- from: "с"
+  to: "c"
+
+- from: "ʗ"
+  to: "C"
+
+- from: "ɕ"
+  to: "c"
+
+- from: "ℂ"
+  to: "C"
+
+- from: "ℭ"
+  to: "C"
+
+- from: "Ⅽ"
+  to: "C"
+
+- from: "ⅽ"
+  to: "c"
+
+- from: "ᶜ"
+  to: "c"
+
+- from: "ᴄ"
+  to: "C"
+
+- from: "Ↄ"
+  to: "C"
+
+- from: "ↄ"
+  to: "c"
+
+- from: "∁"
+  to: "c"
+
+- from: "⊂"
+  to: "c"
+
+- from: "⦃"
+  to: "c"
+
+- from: "❨"
+  to: "c"
+
+- from: "ｃ"
+  to: "c"
+
+- from: "Ｃ"
+  to: "C"
+
+- from: "🅲"
+  to: "C"
+
+- from: "🅒"
+  to: "c"
+
+- from: "㏄"
+  to: "cc"
+
+- from: "𐊢"
+  to: "c"
+
+- from: "င"
+  to: "c"

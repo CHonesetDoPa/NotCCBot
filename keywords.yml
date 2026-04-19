@@ -1,0 +1,65 @@
+- name: not-cc
+  patterns:
+    - "^c{4,}$"
+  replies:
+    - "NOT CC"
+  flags: "i"
+
+- name: not-c-extended
+  patterns:
+    - "^not\\s*c{2,}$"
+  replies:
+    - "NOT CC"
+  flags: "i"
+
+- name: cute-c-extended
+  patterns:
+    - "^(?:可爱|kawaii)\\s*c{2,}$"
+    - "^(?:cute|kawaii)\\s*cc\\d*$"
+    - "^可爱(?:的)?\\s*cc$"
+    - "^\\s*可爱\\s*ch\\s*$"
+    - "^害羞的可爱\\s*cc$"
+  replies:
+    - "不是这样的"
+  flags: "i"
+
+- name: cute-cc
+  strict: true
+  patterns:
+    - "Kawaii c"
+    - "Kawaii cc"
+    - "可爱c"
+    - "可爱cc"
+    - "cc可爱"
+  replies:
+    - "不是这样的"
+  flags: "i"
+
+- name: smart-cc
+  patterns:
+    - "聪明cc"
+  replies:
+    - "对的对的"
+  flags: "i"
+
+- name: baka-cc
+  patterns:
+    - "bakacc"
+  replies:
+    - "不对不对"
+  flags: "i"
+
+- name: now-cc
+  patterns:
+    - "正在cc"
+  replies:
+    - "牙签出去"
+    - "牙签不准说话"
+  flags: "i"
+
+- name: more-cc
+  patterns:
+    - "更多cc"
+  replies:
+    - "没有这个东西"
+  flags: "i"
