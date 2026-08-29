@@ -1,83 +1,80 @@
-- from: "C"
-  to: "C"
-
-- from: "c"
+- from: "ϲ"
   to: "c"
 
-- from: "Ć"
-  to: "C"
-
-- from: "Ĉ"
-  to: "C"
-
-- from: "Ċ"
-  to: "C"
-
-- from: "Č"
-  to: "C"
-
-- from: "Ƈ"
-  to: "C"
-
-- from: "Ȼ"
-  to: "C"
-
-- from: "Ꜿ"
-  to: "C"
-
-- from: "ć"
+- from: "с"
   to: "c"
 
-- from: "ĉ"
+- from: "င"
   to: "c"
 
-- from: "ċ"
+- from: "ၚ"
   to: "c"
 
-- from: "č"
+- from: "ᴄ"
   to: "c"
 
-- from: "ƈ"
+- from: "ⅽ"
   to: "c"
 
-- from: "ȼ"
+- from: "ⲥ"
   to: "c"
 
-- from: "ꜿ"
+- from: "ꮯ"
+  to: "c"
+
+- from: "ｃ"
+  to: "c"
+
+- from: "𐐽"
+  to: "c"
+
+- from: "𝐜"
+  to: "c"
+
+- from: "𝑐"
+  to: "c"
+
+- from: "𝒄"
+  to: "c"
+
+- from: "𝒸"
+  to: "c"
+
+- from: "𝓬"
+  to: "c"
+
+- from: "𝔠"
+  to: "c"
+
+- from: "𝕔"
+  to: "c"
+
+- from: "𝖈"
+  to: "c"
+
+- from: "𝖼"
+  to: "c"
+
+- from: "𝗰"
+  to: "c"
+
+- from: "𝘤"
+  to: "c"
+
+- from: "𝙘"
+  to: "c"
+
+- from: "𝚌"
   to: "c"
 
 - from: "Ϲ"
   to: "C"
 
-- from: "ϲ"
-  to: "c"
-
-- from: "Ͻ"
-  to: "C"
-
-- from: "Ͼ"
-  to: "C"
-
-- from: "ͻ"
-  to: "c"
-
-- from: "ͼ"
-  to: "c"
-
-- from: "ͽ"
-  to: "c"
-
 - from: "С"
   to: "C"
 
-- from: "с"
-  to: "c"
-
-- from: "ʗ"
+- from: "Ꮯ"
   to: "C"
-
-- from: "ɕ"
-  to: "c"
 
 - from: "ℂ"
   to: "C"
@@ -88,50 +85,68 @@
 - from: "Ⅽ"
   to: "C"
 
-- from: "ⅽ"
-  to: "c"
-
-- from: "ᶜ"
-  to: "c"
-
-- from: "ᴄ"
+- from: "Ⲥ"
   to: "C"
 
-- from: "Ↄ"
+- from: "ꓚ"
   to: "C"
-
-- from: "ↄ"
-  to: "c"
-
-- from: "∁"
-  to: "c"
-
-- from: "⊂"
-  to: "c"
-
-- from: "⦃"
-  to: "c"
-
-- from: "❨"
-  to: "c"
-
-- from: "ｃ"
-  to: "c"
 
 - from: "Ｃ"
   to: "C"
 
-- from: "🅲"
+- from: "𐊢"
   to: "C"
 
-- from: "🅒"
-  to: "c"
+- from: "𐌂"
+  to: "C"
 
-- from: "㏄"
-  to: "cc"
+- from: "𐐕"
+  to: "C"
 
-- from: "𐊢"
-  to: "c"
+- from: "𐔜"
+  to: "C"
 
-- from: "င"
-  to: "c"
+- from: "𑣩"
+  to: "C"
+
+- from: "𑣲"
+  to: "C"
+
+- from: "𜳘"
+  to: "C"
+
+- from: "𝐂"
+  to: "C"
+
+- from: "𝐶"
+  to: "C"
+
+- from: "𝑪"
+  to: "C"
+
+- from: "𝒞"
+  to: "C"
+
+- from: "𝓒"
+  to: "C"
+
+- from: "𝕮"
+  to: "C"
+
+- from: "𝖢"
+  to: "C"
+
+- from: "𝗖"
+  to: "C"
+
+- from: "𝘊"
+  to: "C"
+
+- from: "𝘾"
+  to: "C"
+
+- from: "𝙲"
+  to: "C"
+
+- from: "🝌"
+  to: "C"
